@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ArslanAli394/ShoppingApp.git/static/css/main.056cfb79.chunk.css",
+    "main.js": "/ArslanAli394/ShoppingApp.git/static/js/main.a4bb559a.chunk.js",
+    "main.js.map": "/ArslanAli394/ShoppingApp.git/static/js/main.a4bb559a.chunk.js.map",
+    "runtime-main.js": "/ArslanAli394/ShoppingApp.git/static/js/runtime-main.3c93ccd7.js",
+    "runtime-main.js.map": "/ArslanAli394/ShoppingApp.git/static/js/runtime-main.3c93ccd7.js.map",
+    "static/js/2.431ccd55.chunk.js": "/ArslanAli394/ShoppingApp.git/static/js/2.431ccd55.chunk.js",
+    "static/js/2.431ccd55.chunk.js.map": "/ArslanAli394/ShoppingApp.git/static/js/2.431ccd55.chunk.js.map",
+    "index.html": "/ArslanAli394/ShoppingApp.git/index.html",
+    "static/css/main.056cfb79.chunk.css.map": "/ArslanAli394/ShoppingApp.git/static/css/main.056cfb79.chunk.css.map",
+    "static/js/2.431ccd55.chunk.js.LICENSE.txt": "/ArslanAli394/ShoppingApp.git/static/js/2.431ccd55.chunk.js.LICENSE.txt",
+    "static/media/crown.svg.3a4e2b15.svg": "/ArslanAli394/ShoppingApp.git/static/media/crown.svg.3a4e2b15.svg",
+    "static/media/shopping-bag.svg.a688874f.svg": "/ArslanAli394/ShoppingApp.git/static/media/shopping-bag.svg.a688874f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c93ccd7.js",
+    "static/js/2.431ccd55.chunk.js",
+    "static/css/main.056cfb79.chunk.css",
+    "static/js/main.a4bb559a.chunk.js"
+  ]
+}
