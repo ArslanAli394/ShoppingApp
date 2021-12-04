@@ -6,9 +6,23 @@ export const cartHidden = ()=>{
     }
 }
 export const addItem = item =>{
-    console.log(item)
+    // console.log(item)
     return {
         type:cartType.ADD_ITEM,
         payload: item
+    }
+}
+
+export const clearItemFromCart = item =>{
+    return{
+        type:cartType.CLEAR_ITEM_FROM_CART,
+        payload:item
+    }
+}
+// for decrese quantity
+export const removeItemFromCart = item =>{
+    return{
+        type:cartType.REMOVE_ITEM_FROM_CART,
+        payload:item
     }
 }
